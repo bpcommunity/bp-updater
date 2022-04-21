@@ -6,6 +6,14 @@
     },
     "firmwares": {
         "Firmware 14.1.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2014.1.1.zip"
+    },
+    "bootloaders": {
+    },
+    "sigpatches": {
+    },
+    "payloads": {
+    },
+    "hekate": {
     }
 }
 
