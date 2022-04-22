@@ -1,7 +1,7 @@
 {
     "cfws": {
 	"BlackPearl": {
-             "bp-kraken_v12.1": "https://github.com/bpcommunity/blackpearl-aio/releases/download/v12.1/bp-kraken_v12.1.zip"
+             "bp-kraken_v12.1": "https://github.com/bpcommunity/blackpearl-aio/releases/download/12.1/bp-kraken_v12.1.zip"
         }
     },
     "firmwares": {
