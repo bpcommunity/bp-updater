@@ -1,0 +1,11 @@
+{
+    "cfws": {
+	"BlackPearl": {
+             "bp-kids_v12.1": "https://github.com/bpcommunity/blackpearl-aio/releases/download/12.1/bp-kids_v12.1.zip"
+        }
+    },
+    "firmwares": {
+        "Firmware 14.1.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2014.1.1.zip"
+    }
+}
+
