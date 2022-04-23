@@ -6,20 +6,6 @@
     },
     "firmwares": {
         "Firmware 14.1.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.1/Firmware.14.1.1.zip"
-    },
-    "bootloaders": {
-        "hekate_ctcaer_5.6.5_Nyx_1.1.1.zip": "https://github.com/CTCaer/hekate/releases/download/v5.6.5/hekate_ctcaer_5.6.5_Nyx_1.1.1.zip"
-    },
-    "sigpatches": {
-        "fusee.zip | Supports HOS firmware 13.1.0 and AMS 1.2.4": "https://github.com/ITotalJustice/patches/releases/download/13.1.0-1.2.4/fusee.zip"
-    },
-    "payloads": {
-        "fusee.bin": "https://github.com/",
-        "Lockpick_RCM.bin": "https://github.com/",
-        "TegraExplorer.bin": "https://github.com/"
-    },
-    "hekate": {
-        "hekate_ctcaer_5.6.5_Nyx_1.1.1.zip": "https://github.com"
     }
 }
 
