@@ -5,7 +5,7 @@
         }
     },
     "firmwares": {
-        "Firmware 14.1.1": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2014.1.1.zip"
+        "Firmware 14.1.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.1/Firmware.14.1.1.zip"
     }
 }
 
