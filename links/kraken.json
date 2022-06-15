@@ -1,11 +1,11 @@
 {
     "cfws": {
 	"BlackPearl": {
-             "bp-kraken_v12.3": "https://github.com/bpcommunity/blackpearl-aio/releases/download/12.3/bp-kraken_v12.3.zip"
+             "bp-kraken_v13.0": "https://github.com/bpcommunity/blackpearl-aio/releases/download/13.0/bp-kraken_v13.0.zip"
         }
     },
     "firmwares": {
-        "Firmware 14.1.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.1/Firmware.14.1.1.zip"
+        "Firmware 14.1.2": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.2/Firmware.14.1.2.zip"
     }
 }
 
