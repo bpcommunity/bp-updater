@@ -1,7 +1,7 @@
 {
     "cfws": {
 	"BlackPearl": {
-             "bp-mini_v13.0": "https://github.com/bpcommunity/blackpearl-aio/releases/download/13.0/bp-mini_v13.0.zip"
+             "bp-mini_v13.1": "https://github.com/bpcommunity/blackpearl-aio/releases/download/13.1/bp-mini_v13.1.zip"
         }
     },
     "firmwares": {
